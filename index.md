@@ -2,44 +2,13 @@
 layout: default
 ---
 
-## About Me
+<img class="profile-picture" src="images/miri.png">
 
-<img class="profile-picture" src="sherlock.jpg">
+Hi, I'm Miri! I'm a senior undergrad at UCLA studying Computer Science and Mathematics, and I'm originally from Frederick, Maryland :)
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I'm interested in natural language processing, especially neural machine translation, creative generation tasks, and NLP fairness.  At UCLA, I am an undergraduate research intern in the NLP Lab and the PLUS Lab.  Previously, I've also worked as a software engineering intern at Microsoft and Balyasny Asset Management.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+In my free time, I like doing crosswords, reading, translating poetry, and playing guzheng.  I also play a lot of Pikmin Bloom!
 
-## Research Interest
+[✉️ email](mailto:your.email@example.com)  [📄 cv](path/to/cv.pdf)  [💻 github](https://github.com/your-username)  [🔗 linkedin](https://linkedin.com/in/your-profile)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum

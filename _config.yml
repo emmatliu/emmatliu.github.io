@@ -1,4 +1,4 @@
-title: miri :)
+title: Miri Liu
 url: "https://emmatliu.github.io"
 
 markdown: kramdown
@@ -15,9 +15,11 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "Home"
+   link: "/"
+ - name: "Personal"
+   link: "personal"
+ - name: "CV"
+   link: "CV.pdf"
  - name: "Contact"
    link: "contact"

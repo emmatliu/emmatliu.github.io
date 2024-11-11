@@ -42,7 +42,7 @@
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
-        border-radius: 50%;
+        border-radius: 15%;
         p & {
             padding: 0;
             margin: 0;
@@ -56,5 +56,13 @@
     img {
         text-align: center;
         width: 100%;
+    }
+    .square-crop {
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        cursor: pointer;
+        margin: 5px;
+        display: inline-block;
     }
 }

@@ -3,24 +3,18 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+## General
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Email: [emmatliu@gmail.com](mailto:emmatliu@gmail.com)
+* LinkedIn: [emmatliu](https://www.linkedin.com/in/emmatliu/)
+* GitHub: [emmatliu](https://github.com/emmatliu)
+* Instagram: [miri.liu](https://www.instagram.com/miri.liu/)
 
 ---
 
-## Social
+## Miscellaneous
+Some less common forms of contact that are somewhat dearer to my heart :)
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. Ravelry: [kindmelon](https://www.ravelry.com/people/kindmelon)
+2. Goodreads: [miri](https://www.goodreads.com/user/show/90729355-miri)
+3. Pikmin Bloom: 3204 9226 2951
